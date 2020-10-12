@@ -31,7 +31,7 @@ Using word_2_vec.py, one can inspect the similar words to a given word, as well 
 The script visualistion.py shows the word vectors reduced to two dimensional space, according to principal component analysis (PCA). One can see in the below image that words with similar semantics, in this case things relating to the sea, cluster together.
 
 
-![](https://github.com/joebarnes1996/word-2-vec/ocean.png?raw=true "Optional Title")
+![](ocean.png?raw=true "Optional Title")
 
 
 
