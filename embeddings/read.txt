@@ -1,0 +1,1 @@
+Vector embeddings to large to upload. Run word_2_vec.py and save results to this file in order to run visualisations.
